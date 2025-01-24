@@ -9,7 +9,7 @@ A powerful multi-agent system built using **PhiData** to manage complex workflow
 - [Usage](#usage)
 - [Examples](#examples)
 - [Contributing](#contributing)
-- [License](#license)
+ 
 
 ---
 
